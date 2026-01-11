@@ -43,7 +43,7 @@ Datei einbinden und Seite aus Blöcken zusammensetzen.
   <div id="app"></div>
 
   <script type="module">
-    import { Page, Text, Button, Section, Hero } from "./infyno.js"
+    import { Page, Text } from "https://js.infyno.de/infyno.js"
 
     Page({
       title: "infynojs",
