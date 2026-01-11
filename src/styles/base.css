@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+
+.infy-section {
+  padding: 60px;
+}
+
+.infy-text {
+  font-size: 18px;
+}
+
+.infy-button {
+  padding: 12px 20px;
+  background: #000;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.infy-hero {
+  padding: 100px;
+  background: #f4f4f4;
+  text-align: center;
+}
