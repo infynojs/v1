@@ -1,5 +1,15 @@
 {
   "name": "infynojs",
   "version": "1.0.0",
-  "license": "MIT"
+  "description": "Simple JavaScript website builder",
+  "type": "module",
+  "main": "./dist/infyno.js",
+  "exports": {
+    ".": "./dist/infyno.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infynojs/v1.git"
+  }
 }
