@@ -1,4 +1,4 @@
-# infynojs v1 ⚡
+# infynojs v1 ⚡ (Beta V)
 
 Eine kleine JavaScript-Library, um einfache Websites schnell zu bauen.
 
